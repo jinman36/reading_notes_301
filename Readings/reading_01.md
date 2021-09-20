@@ -42,4 +42,16 @@
 
 ## What is Props and How to Use it in React
 
+1. What is props short for?
+
+- Props is a special keyword in react - which stands for **properties** and is being used for passing data from one component to another.
+
+1. How are props used in React?
+
+- Props are passed to components like function arguments
+
+1. What is the flow of props?
+
+- uni-directional flow - one way from parent to child
+
 ## Things I want to know more about

@@ -5,11 +5,15 @@
 ## go-on-adventure
 
 ### Installing bootstrap
+
 - package json
 - **npm install react-bootstrap bootstrap**
 - copy link from bootstrap site into the index.html
+  - [Bootstrap site](https://getbootstrap.com/)
+  - [Bootstrap React site](https://react-bootstrap.netlify.app/components/overlays/)
 
 ## Deployment
+
 - netlify - get started for free
 - set you up in a dashboard
 - make one for our horned beast app

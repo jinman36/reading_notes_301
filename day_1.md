@@ -13,6 +13,6 @@
 
 - event listeners - utilizing th eDOM - ID - React takes care of a lot of that for you without getting into as detailed of structure
 
-- 201 focused on fundamentaal blocks of code - not necsarrliy induxtry standard
+- 201 focused on fundamental blocks of code - not necisarrily industry standard
 
 - always recommended 

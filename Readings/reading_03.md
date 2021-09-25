@@ -64,11 +64,11 @@ console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩
 
 In the video, what is the first step that the developer does to pass functions between components?
 
-- 
+- create the function where ever the state we want to change is located.
 
 In your own words, what does the increment function do?
 
--
+- Increment means to add a number by X amount (using count++ it adds 1 every time the loop is invoked)
 
 How can you pass a method from a parent component into a child component?
 
@@ -78,4 +78,4 @@ How does the child component invoke a method that was passed to it from a parent
 
 ## Things I want to know more about
 
-- Why do they need to be key value pairs to concatenate an array?
+- I just need to work with react more

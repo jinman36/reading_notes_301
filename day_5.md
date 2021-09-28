@@ -1,24 +1,22 @@
-# Day 4
+# Day 5
 
-### Date 9-25-2021
+### Date 9-30-2021
 
-# WRRC - Web Request Response Cycle
+- .find()
+  - A callback function that will go through the functions and look for a certain value - needs a comparison
+    example format
+        let beastTitle = this.state.beastData.find((item) => item.title === beastTitle);
 
-- Client Side
-- Server Side
 
-- React live completely in the front end - when a client requests information it is a 'Get Request'
+- anonymous callback function - using a arrow function without an argument - this can be used inline for certain actions.
 
-- REST - representational state
-  - Restful verbs
 
-GET: Requesting Information
-POST: Add Information
-PUT: Modify Existing Information
-DELETE: Delete Information
--------------
+- Everything within the  class gets used - but it gets put together inside the render()
 
-Data flows down in React
+- between the class and render - functions - instance methods
+- inside the render function you will only want to use local variables
 
-- The flow of data makes it difficult to change parent state - to get around this we will want to use functions to access parent state
+- render has its own scope within the class
+
+mdn javascript - array prototype . function - today is filter :)
 

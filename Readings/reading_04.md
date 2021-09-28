@@ -31,4 +31,4 @@ x===y ? 'Yes" : 'No";
 
 ## Things I want to know more about
 
-- I just need to work with react more
+- .setState() -

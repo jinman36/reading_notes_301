@@ -1,6 +1,6 @@
 # Day 5
 
-### Date 9-30-2021
+### Date 9-27-2021
 
 - .find()
   - A callback function that will go through the functions and look for a certain value - needs a comparison

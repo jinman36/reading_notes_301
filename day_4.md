@@ -4,7 +4,8 @@
 
 # WRRC - Web Request Response Cycle
 - Client Side
-- Server Side
+- Server Side (API)
+  - API - Application Program Interface
 
 - React live completely in the front end - when a client requests information it is a 'Get Request'
 

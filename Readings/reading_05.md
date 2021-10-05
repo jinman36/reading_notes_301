@@ -44,7 +44,7 @@
       - **Reduce** The reduce (also called fold) Higher Order Function - build a value by repeatedly taking a single element from the array and combining it with the current value - when summing numbers, you'd start with the number zero and, for each element, add that to the sum.
 
       - See below example:
-       
+
        function reduce(array, combine, start) {
         let current = start;
         for (let element of array) {

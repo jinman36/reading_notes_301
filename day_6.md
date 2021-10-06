@@ -12,3 +12,17 @@
 - want to see the location on a map
 - I want to see some locations I can visit
 
+Vocabulary
+  - Async and await
+  - promises -> that ill get something back.
+
+  - Jason and the unhandled promises
+
+
+## Reduce
+
+arr.reduce ((acc, elemetn, <idx>) => {
+
+}, [starting data type for accumulator]);
+
+accumulator --> bucket

@@ -9,7 +9,7 @@
 
 - React live completely in the front end - when a client requests information it is a 'Get Request'
 
-- REST - representational state
+- REST - Representational State Transfer
   - Restful verbs
 
 GET: Requesting Information

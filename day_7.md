@@ -1,6 +1,6 @@
 # Day 7
 
-## TInto the backend!
+## Into the backend!
 
 ### Date 10-5-2021
 

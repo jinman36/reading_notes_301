@@ -20,6 +20,7 @@
 - Create empty file
   - touch server.js
   - touch .env
+  - touch sample.env
   - touch .eslintrc.json - paste contents from class repo
   - touch .gitignore - copy contents from class repo / ensure .env is present in gitignore file
 
@@ -77,10 +78,10 @@
     - app.get('/captainfalcon', (request, response) => response.json({name: 'Captain Falcon', Game: 'F-Zero'}))
 
     - app.get('*', (request, response) => {
-      response.status(404).send('that didnt work')
+      response.status(404).send('that didn't work')
     })
 
-<!-- This will return the character and name of game only - even though we have more informaiton available -->
+<!-- This will return the character and name of game only - even though we have more information available -->
 
 - Status codes
   - 200 - Ok

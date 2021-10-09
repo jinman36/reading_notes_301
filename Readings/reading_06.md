@@ -7,10 +7,10 @@
 1. [An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)
 
 - What is node.js?
-  - Node.js and npm are build tools for various js applicaitons
+  - Node.js and npm are build tools for various js applications
 
 - In your own words, what is Chrome’s V8 JavaScript Engine?
-  - The google V8 engine is what allows browsers to compile JS code within th ebrowser by allowing the browser to compile JS directly to code that can be interpreted by your computer to execute.
+  - The google V8 engine is what allows browsers to compile JS code within the browser by allowing the browser to compile JS directly to code that can be interpreted by your computer to execute.
 
 - What does it mean that node is a JavaScript runtime?
   - this refers to where your code is executed, for chrome it is using the google V* described above - Mozilla uses Spidermonkey, etc..
@@ -32,8 +32,19 @@
 1. [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
 - What are the 6 reasons for pair programming?
+  1. Greater Efficiency
+  2. Engaged Collaboration
+  3. Learning from fellow students
+  4. Social Skills
+  5. Job interview readiness
+  6. Work environment readiness
+
 - In your experience, which of these reasons have you found most beneficial?
+  - I think the engaged collaboration is the best part of pair programming.
 - How does pair programming work?
+  - Two roles - Driver and Navigator - Both programmers will work off the drivers screen.
+  - The driver actually writes the code
+  - The Navigator will direct the driver what to write and will pull up resources along the way to ensure that things are being entered correctly if something needs to be researched.
 
 
 ## Things I want to know more about

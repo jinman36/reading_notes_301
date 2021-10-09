@@ -20,6 +20,8 @@
 - Create empty file
   - touch server.js
   - touch .env
+  - touch .eslintrc.json - paste contents from class repo
+  - touch .gitignore - copy contents from class repo / ensure .env is present in gitignore file
 
 
 - Continue working through VS code
@@ -47,4 +49,13 @@
       - this will allow auto update
         -  installed gloabally with 'npm i -g nodemon'
 
-    
+    <!--setting the root route  -->
+    - app.get('/', (request, response) => {
+        response.send('Greetings from the Smash server');
+    })
+
+    - app.get('/captainfalcon', (request, response) => response.json({name: 'Captain Falcon', Game: 'F-Zero'}))
+
+    - app.get('*', (request, response) => {
+      response.status(404).send('that didnt work')
+    })

@@ -33,6 +33,6 @@ How do we bring another module into the file that we are working in?
 - We are going to bring it in by making a variable with the data that is returned fro the require() function and then, assuming we have data exported in the module, we can run that variable in the main file to use that released data.
 
 What do we have to do to make a module available?
-- We need to explicitly tell the module what information will be available outside the module - module.export
+- We need to explicitly tell the module what information will be available outside the module - module.exports
 
 ## Things I want to know more about
